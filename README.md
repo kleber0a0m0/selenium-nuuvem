@@ -1,6 +1,12 @@
 # selenium-nuuvem
-![vokoscreenNG-2023-02-12_11-47-08](https://user-images.githubusercontent.com/116971675/218321897-3575a09a-f292-49ee-8108-48a89914cb30.gif)
+Site testado: https://www.nuuvem.com/br-pt/
 
-![vokoscreenNG-2023-02-12_11-57-52](https://user-images.githubusercontent.com/116971675/218321906-c0aa74a3-2209-47ec-9dcb-1943aa0cc52a.gif)
 
-![vokoscreenNG-2023-02-12_12-32-36](https://user-images.githubusercontent.com/116971675/218321908-2d724bca-ac0f-43ec-86f6-d52dcc136921.gif)
+## Pesquisa:
+![vokoscreenNG-2023-02-12_11-47-08](https://user-images.githubusercontent.com/116971675/218322213-7d89522c-8aa8-4ef4-857c-ac88475c90a6.gif)
+
+## Adicionar ao carrinho:
+![vokoscreenNG-2023-02-12_11-57-52](https://user-images.githubusercontent.com/116971675/218322220-73ab62c1-995b-401e-a970-6665818eb504.gif)
+
+## Limpar busca:
+![vokoscreenNG-2023-02-12_12-32-36](https://user-images.githubusercontent.com/116971675/218322225-679d55b3-f7a1-43f6-8f52-00b6a9930220.gif)
